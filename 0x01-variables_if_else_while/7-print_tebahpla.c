@@ -1,7 +1,6 @@
 #include <stdio.h>
-#include <dtdlib.h>
+#include <stdlib.h>
 #include <time.h>
-
 /**
  * main - Entry point
  * Return: Always 0 (Success)
@@ -10,7 +9,7 @@
 int main(void)
 
 {
-
+i
 	char low;
 
 	for (low = 'z'; low >= 'a'; low--)
